@@ -3,13 +3,13 @@
     margin: 0;
     padding: 0;
     font-family:Arial, Helvetica, sans-serif;
-    background-color: #ff0202;
+    background-color: #FF6B6B;
     
 }
 
 body
 {
-    background-image: linear-gradient(white,blue);
+    background-image: linear-gradient(#FF6B6B,#FF6B6B);
 }
 .logo
 {
@@ -21,8 +21,9 @@ body
 }
 .cont
 {
-    max-width: 955px;
-    background-image: linear-gradient(gray,black);
+    max-width: 1500px;
+    /*background-image: linear-gradient(#2E2E2E,#2E2E2E);*/
+    background-image: url("https://images.unsplash.com/photo-1585314062604-1a357de8b000?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
     /*background-color: #1a5f81;*/
     margin:auto;
     height: 60vh;
@@ -46,7 +47,7 @@ body
 }
 .right
 {
-    background-color: orangered;
+    background-color: #FFE5B4;
     float: right;
     clear: both;
 }
@@ -73,7 +74,7 @@ body
     height: 34px;
     width: 55px;
     border-radius: 10px;
-    background-color: green;
+    background-color: #FFE5B4;
     font-weight: bold;
 }
 #id1
